@@ -10,8 +10,8 @@ const FooterSection = () => {
         <div className="row">
             <div className="col">
                 <div className=" widget  img-widget">
-                    <img src="https://www.keralaspicesonline.com/wp-content/uploads/2015/07/cropped-Kerala-Spices-Online-LOGO.png" alt="" />    
-                    <p>keralaspicesOnline.com is a first of its kind spice e-store conceived by a team of management professionals with decades of domain knowledge.</p>
+                    <img src="./Assets/Images/Logo.png" alt="" />    
+                    <p>Kashish-Masala.com is a first of its kind spice e-store conceived by a team of management professionals with decades of domain knowledge.</p>
                 </div>
 
             </div>  

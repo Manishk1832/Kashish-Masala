@@ -21,7 +21,7 @@
 }
 
 .col img{
-    height: 100px;
+    height: 200px;
     width: 200px;
     padding-bottom: 20px;
 }
@@ -51,7 +51,7 @@
     width: 70px;
     height: 2px;
     position: absolute;
-    background-color: green;
+    background-color: #a30034;
     bottom: -10px;
 }
 .widget-title:hover{
@@ -89,7 +89,8 @@
 
 .col .inputSubmit{
     padding: 0px  20px;
-    background-color: orange;
+    background-color: #a30034;
+    color: white;
     border: none;
 }
 
@@ -108,7 +109,7 @@
 }
 
 .row  .social-icons > a:hover{
-    color: green;
+    color: #ffde59;
 }
 
 @media (max-width:600px){
