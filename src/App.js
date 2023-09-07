@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div>
       <HeaderSection/>
-      {/* <SliderSection/> */}
+      <SliderSection/>
       <FooterSection/>
       
     </div>

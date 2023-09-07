@@ -21,6 +21,9 @@ function showSlides() {
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 
+
+
+
 const SliderSection = () => {
   return (
     <div>
@@ -39,9 +42,9 @@ const SliderSection = () => {
       </div>
       <br />
       <div className="showing-dot">
-        <span class="dot"></span>
-        <span class="dot"></span>
-        <span class="dot"></span>
+        <span className="dot"></span>
+        <span className="dot"></span>
+        <span className="dot"></span>
       </div>
     </div>
   );
