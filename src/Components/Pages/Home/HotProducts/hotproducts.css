@@ -1,0 +1,10 @@
+.products{
+    display: flex;
+    margin-bottom: 4em;
+    align-items: center;
+    justify-content: center;
+
+}
+h1{
+   text-align: center;
+}

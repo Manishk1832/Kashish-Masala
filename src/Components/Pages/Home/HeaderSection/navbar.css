@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.top-bar{
+    display: flex;
+    justify-content: space-around;
+    background-color: #a30034;
+    color: white;
+    height: 30px;
+    align-items: center;
+
+}
+
+.main-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    background-color: white;
+   
+ 
+   
+   
+}
+.sec-header{
+  
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  
+   
+   
+  
+  
+}
+ 
+
+.navigation{
+    display: flex;
+    justify-content: center;
+    padding-left: 4em;
+
+
+
+    
+    
+   
+}
+.header-name{
+    font-size: 1em;
+  
+  }
+
+
+.logo {
+    height:9em;  
+    width: 9em;
+    align-items: center;
+    justify-content: center;
+    margin-right: 2em;
+   
+   
+}
+
+
+.search form{
+    
+    background-color: white;
+    width: 30em;
+    height: 3em;
+    padding-left: 1em;
+    border-color: #a30034;
+    display: flex;
+}
+form input {
+    flex: 1;
+   
+}
+
+
+.search-btn{
+    background-color: #a30034;
+    padding: 10px;
+    border: none;
+    width: 5rem;
+    outline: none;
+    margin-left: 10px;
+    color: white;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+
+
+.header-icon{
+    height: 2em;
+    width: 2em;
+    margin-left: 30px;
+    
+
+    
+   
+}
+.Account{
+    display: flex;
+    flex-direction: column;
+    padding-right: 10px;
+
+
+    
+    
+  
+}
+
+.help{
+    display: flex;
+    flex-direction: column;
+    padding-right: 10px;    
+    padding-left: 10px;  
+
+
+
+
+
+}
+.checkout{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;  
+
+}
+
+.nav{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color:black;
+   
+    
+}
+.nav-links ul  {
+    list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+   
+
+}
+.nav-links li {
+
+    color: white;
+    margin-right: 2rem;
+
+
+ 
+
+   
+
+}
+
+
+
+
+.nav-links li a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    
+
+}
+li:hover{
+    padding-top: 10px;
+    text-decoration: underline ;
+    color: #a30034;
+}
+
+
+.cart-content{
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+
+    
+   
+}
+.amount{
+    
+    font-size: 24px;
+    color: white;
+    padding-right: 0.4rem;
+} 
+.cart-logo{
+    color: orange;
+    font-size: 24px;
+}

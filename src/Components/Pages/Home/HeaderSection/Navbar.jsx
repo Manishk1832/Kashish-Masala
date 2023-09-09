@@ -54,7 +54,7 @@ const Navbar = () => {
 
                 </div>
                 
-                <p>My Account</p>
+                <p className="header-name">My Account</p>
               </div>
               <hr/>
               <div className="help">
@@ -77,8 +77,9 @@ const Navbar = () => {
                 </div>
                 
 
-                <p>Customer Help</p>
+                <p  className="header-name" >Customer Help</p>
               </div>
+              <hr/>
               <div className="checkout">
                 <div className="header-icon">
                 <svg
@@ -97,7 +98,7 @@ const Navbar = () => {
 
                 </div>
                 
-                <p>checkout</p>
+                <p  className="header-name">checkout</p>
               </div>
             </div>
           </div>
