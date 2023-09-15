@@ -1,0 +1,17 @@
+.container{
+    margin-top: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    margin: 1em;
+}
+.hr-bold{
+    background-color: #a30034;
+    height: 0.3em;
+    border: none;
+    margin-left: 3em;
+    margin-right: 3em;
+    
+}

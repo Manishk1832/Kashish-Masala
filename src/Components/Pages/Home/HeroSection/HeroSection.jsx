@@ -16,8 +16,10 @@ const HeroSection = () => {
             </div>
             
         </div>
+       
 
         </div>
+        <hr className='hr-bold' />
         
         
 
